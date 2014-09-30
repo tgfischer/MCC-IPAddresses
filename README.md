@@ -10,10 +10,10 @@ In summary, your task is to determine whether an IP address is within range, out
 Input description/format
 ===============
 Each line of the input will contain 3 IP Addresses, separated by spaces:
-•	The first IP address represents the first valid IP address of the subnet.
-•	The second IP address represents the 
-last valid IP address of the subnet.
-•	The 3rd IP address is the address to validate.
+
+  - The first IP address represents the first valid IP address of the subnet.
+  - The second IP address represents the last valid IP address of the subnet.
+  - The 3rd IP address is the address to validate.
 
 Output description/format
 ===============
