@@ -18,7 +18,7 @@ last valid IP address of the subnet.
 Output description/format
 ===============
 
-For each line of input, output the result in one of the following 3 ways (case sensitive):
+For each line of input, output the result in one of the following 3 ways (case sensitive):<br>
 <code>InRange</code><br>
 <code>InValid</code><br>
 <code>OutRange</code><br>
