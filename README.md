@@ -18,19 +18,25 @@ Each line of the input will contain 3 IP Addresses, separated by spaces:
 Output description/format
 -----------
 
-For each line of input, output the result in one of the following 3 ways (case sensitive):<br>
-<code>InRange</code><br>
-<code>InValid</code><br>
-<code>OutRange</code><br>
+For each line of input, output the result in one of the following 3 ways (case sensitive):
+```
+InRange
+InValid
+OutRange
+```
 
 Example input
 -----------
-<code>10.0.0.1 11.199.88.254 1000.43.59.96</code><br>
-<code>10.0.0.1 11.199.88.254 10.43.59.96</code><br>
-<code>10.0.0.1 11.199.88.254 111.19.12.154</code><br>
+```
+10.0.0.1 11.199.88.254 1000.43.59.96
+10.0.0.1 11.199.88.254 10.43.59.96
+10.0.0.1 11.199.88.254 111.19.12.154
+```
 
 Example output
 -----------
-<code>InValid</code><br>
-<code>InRange</code><br>
-<code>OutRange</code><br>
+```
+InValid
+InRange
+OutRange
+```
